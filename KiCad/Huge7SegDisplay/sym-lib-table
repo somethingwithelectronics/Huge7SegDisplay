@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Huge7SegDisplay)(type Legacy)(uri ${KIPRJMOD}/Huge7SegDisplay.lib)(options "")(descr ""))
+)
